@@ -15,7 +15,7 @@ Teacher
 - Watching movies
 - Playing the guitar...
 
-*way to many hobbies.*
+*Way too many hobbies.*
 
 ## Preferred form of Exercise
 
