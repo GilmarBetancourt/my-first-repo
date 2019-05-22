@@ -1,30 +1,30 @@
-# This is a large heading
+                              # GILMAR BETANCOURT
 
-## This is a smaller heading
+## Location
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Caracas, Venezuela
 
-- This is
-- an unordered
-- list
+## Profession
 
-1. This is
-2. an ordered
-3. list
+Teacher
 
-Here is `some code` in the middle of a sentence.
+## Hobbies
 
-```
-This is
-a block
-of code
-```
+- Reading
+- Riding my bike
+- Watching movies
+- Playing the guitar...
 
-Here is how you make [a link](https://www.wikipedia.org/).
+*Way too many hobbies.*
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+## Preferred form of Exercise
 
-nano README.md
+Running
+
+## Pets
+
+Two cats. *I work for their food.*
+
+## Soul Food
+
+**Traveling** as much as I can however I can.
